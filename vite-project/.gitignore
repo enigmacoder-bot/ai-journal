@@ -1,0 +1,28 @@
+# Dependencies
+/node_modules
+
+# Build artifacts
+/dist
+/out
+
+# Environment variables - VERY IMPORTANT
+.env
+.env*
+!.env.example # Allows .env.example to be committed
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Vite specific cache
+.vite
+
+# Optional: Coverage reports
+# coverage/
+
+# Optional: IDE files if not covered by root .gitignore or if specific settings here
+# .idea
+# .vscode 
