@@ -4,8 +4,6 @@
 # Environment variables - VERY IMPORTANT
 .env
 
-package-lock.json
-
 # Logs
 npm-debug.log*
 yarn-debug.log*
@@ -16,6 +14,6 @@ pnpm-debug.log*
 # Optional: Production build folder if you have one for server (less common for simple Node/Express)
 # /dist
 # /build
-
+package-lock.json
 # Optional: Coverage reports
 # coverage/ 
