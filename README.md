@@ -2,6 +2,22 @@
 
 An intelligent journaling application that provides empathetic AI responses, mood analysis, and insightful summaries to help users reflect and grow. Built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and powered by Google's Gemini API.
 
+## Preview 
+
+- **Sign Up:**
+![image](https://github.com/user-attachments/assets/71da0cd1-f8b7-40b8-9352-e8bcc9a98005)
+
+
+- **Login:**
+![image](https://github.com/user-attachments/assets/aae88fc7-ffa8-40d2-9548-fbd4e22a23ab)
+
+
+- **Chat Page:**
+![image](https://github.com/user-attachments/assets/2a6edf5a-2e9e-4b58-a0ab-5376428e8a97)
+
+
+
+
 ## Features
 
 - **Secure User Authentication:**
@@ -174,15 +190,6 @@ ai-journal/
 - **Advanced AI Context:** Provide more historical context to AI for even more personalized motivation or improvement suggestions.
 - **Top Themes of the Day (AI):** Enhance history/summaries by having Gemini identify and list key themes from daily entries.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions or want to improve the app, please feel free to:
-
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
 
 ## License
 
@@ -193,8 +200,6 @@ Distributed under the [MIT License](LICENSE.txt). See `LICENSE.txt` for more inf
 - Google Gemini API
 - DaisyUI
 - Tailwind CSS
-- [Any other libraries or resources you found particularly helpful]
 
 ---
 
-**Note:** Remember to create a `.gitignore` file for both the `server` and `vite-project` directories (and a root one) to exclude `node_modules`, `.env` files, build artifacts, etc., from version control.
