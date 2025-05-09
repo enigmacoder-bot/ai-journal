@@ -9,7 +9,8 @@ An intelligent journaling application that provides empathetic AI responses, moo
 
 
 - **Login:**
-![image](https://github.com/user-attachments/assets/aae88fc7-ffa8-40d2-9548-fbd4e22a23ab)
+![image](https://github.com/user-attachments/assets/111bb3a6-8b84-415d-bbf6-9775d0232384)
+
 
 
 - **Chat Page:**
